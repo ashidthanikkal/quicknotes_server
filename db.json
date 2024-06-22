@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Online Learning Platform",
+      "note": "A platform for users to access courses, track progress, and receive certifications.2\nFeatures:\nUser authentication (students and instructors)\nCourse creation and management\nVideo and text-based lessons\nQuizzes and assessments\nProgress tracking\nDiscussion forums",
+      "date": "20/6/2024",
+      "time": "08:38 pm",
+      "important": false,
+      "id": 1
+    },
+    {
+      "title": "Food Delivery  User",
+      "note": "User Module\nUser Authentication and Authorization\n\nSign Up: User registration with email and password.\nLogin: Secure user login with JWT tokens.\nLogout: Secure logout functionality.\nUser Profile Management\n\nView Profile: Display user details.\nEdit Profile: Update user information.\nChange Password: Secure password change functionality.\nBrowse and Search Dishes\n\nView Dish List: Display a list of available dishes.\nSearch Dishes: Search dishes by name or category.\nFilter Dishes: Filter dishes by category, ratings, etc.\nOrder Management\n\nCart System: Add items to the cart, update quantities, and remove items.\nCheckout Process: Place orders and make payments.\nOrder Tracking: Track order status.\nOrder History: View past orders and their details.\nRatings and Reviews\n\nRate and Review Dishes: Allow users to rate and review dishes.\nView Reviews: Display ratings and reviews for dishes.",
+      "important": true,
+      "date": "22/6/2024",
+      "time": "08:03 pm",
+      "id": 2
+    },
+    {
+      "title": "Food Delivery Admin",
+      "note": "Admin Module\nUser Management\n\nView Users: Display a list of registered users.\nEdit User Details: Update user information.\nDelete User: Remove a user from the system.\nDish Management\n\nAdd Dishes: Add new dishes to the platform.\nEdit Dishes: Update dish details.\nDelete Dishes: Remove dishes from the platform.\nOrder Management\n\nView Orders: Display a list of all orders.\nUpdate Order Status: Change the status of an order (e.g., pending, delivered).\nReporting and Analytics\n\nSales Reports: Generate reports on sales and revenue.\nUser Activity Reports: Generate reports on user activities.",
+      "important": true,
+      "date": "22/6/2024",
+      "time": "08:11 pm",
+      "id": 3
+    },
+    {
+      "title": "Event Booking System",
+      "note": "A platform for booking tickets to various events.\nFeatures:\n\nUser authentication and profiles\nEvent listings with details and images\nTicket booking and payment integration\nEvent reminders and notifications\nReview and rating system for events\nAdmin dashboard for managing events",
+      "important": false,
+      "date": "22/6/2024",
+      "time": "08:22 pm",
+      "id": 4
+    },
+    {
+      "title": "Music Streaming App",
+      "note": " A platform for streaming music.\nFeatures:\n\nUser authentication and profiles\nMusic library with search and filter options\nPlaylists creation and management\nLike and share tracks\nRecommendations based on listening history\nOffline listening feature",
+      "important": false,
+      "date": "22/6/2024",
+      "time": "08:23 pm",
+      "id": 5
+    },
+    {
+      "title": "Language Learning App",
+      "note": "A platform for users to learn and practice new languages.\nFeatures:\n\nUser authentication and profiles\nLessons and quizzes for different languages\nFlashcards and vocabulary exercises\nProgress tracking and achievements\nCommunity forums for practice\nVoice recognition for pronunciation practice",
+      "important": true,
+      "date": "22/6/2024",
+      "time": "08:28 pm",
+      "id": 6
+    }
+  ]
+}
